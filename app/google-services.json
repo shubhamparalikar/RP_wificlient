@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "771777578472",
+    "firebase_url": "https://rpwificlient.firebaseio.com",
+    "project_id": "rpwificlient",
+    "storage_bucket": "rpwificlient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771777578472:android:ff868c7ec7b9d60e",
+        "android_client_info": {
+          "package_name": "com.example.rp_wificlient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771777578472-qitbdv8artvntr2h0nt7gv7ig66grpcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rp_wificlient",
+            "certificate_hash": "99f308b01009f9dd15a1dc62659c28374f97be7f"
+          }
+        },
+        {
+          "client_id": "771777578472-npv52vidd82d5354d5eoc8fn2vt4pokh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN7JeMSN0O3y-5aqRc6T0s3cFXDx2b4ds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771777578472-npv52vidd82d5354d5eoc8fn2vt4pokh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
